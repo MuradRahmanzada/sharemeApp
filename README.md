@@ -4,20 +4,25 @@ ShareMe provides the user with complete control of their posts such as creation,
 Powered By Google Authentication, Shareme Provides streamlined account activities and top of the line security.
 
 
-## Login page
+## Login Page
 ![Login](https://user-images.githubusercontent.com/97960285/183783252-a6db8207-0a6f-4d67-874a-bb235ba52253.png)
 
-## Landing page
+## Landing Page
 ![Landing](https://user-images.githubusercontent.com/97960285/183783274-eee928fd-e6cf-40db-8ede-81f6dd57b310.png)
 
 
 ## Category Specific Pages
+![art](https://user-images.githubusercontent.com/97960285/183783995-6e073698-9cb7-452f-9b0b-92ba12615d2e.png)
+![cars](https://user-images.githubusercontent.com/97960285/183784000-24d1482f-e13d-42cd-bf30-7ec6c39ade5b.png)
+![dogs](https://user-images.githubusercontent.com/97960285/183784002-74ae7fe5-a59e-49b7-915b-7d22689244e7.png)
+![foods](https://user-images.githubusercontent.com/97960285/183784006-70b82003-998b-4361-9bc9-8295eb904c67.png)
 
-
-
-## User Profile
 
 ## Adding Post
+![new](https://user-images.githubusercontent.com/97960285/183784018-d5adeb70-dd34-4c7c-87d4-17fc26ee2638.png)
+
+## User Profile
+![Screenshot (124)](https://user-images.githubusercontent.com/97960285/183784100-4ff49d8c-e75a-4844-bfc4-1eb1ba1b34d0.png)
 
 
 ### Links
