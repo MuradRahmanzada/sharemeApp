@@ -1,70 +1,41 @@
-# Getting Started with Create React App
+## Overview
+ShareMe is a Social Media Platforms aimed towards sharing experiences through photographs.
+ShareMe provides the user with complete control of their posts such as creation, editing, deletion as well as saving favourite pins for later reference.
+Powered By Google Authentication, Shareme Provides streamlined account activities and top of the line security.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Login Page
+![Login](https://user-images.githubusercontent.com/97960285/183783252-a6db8207-0a6f-4d67-874a-bb235ba52253.png)
 
-In the project directory, you can run:
+## Landing Page
+![Landing](https://user-images.githubusercontent.com/97960285/183783274-eee928fd-e6cf-40db-8ede-81f6dd57b310.png)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Category Specific Pages
+![art](https://user-images.githubusercontent.com/97960285/183783995-6e073698-9cb7-452f-9b0b-92ba12615d2e.png)
+![cars](https://user-images.githubusercontent.com/97960285/183784000-24d1482f-e13d-42cd-bf30-7ec6c39ade5b.png)
+![dogs](https://user-images.githubusercontent.com/97960285/183784002-74ae7fe5-a59e-49b7-915b-7d22689244e7.png)
+![foods](https://user-images.githubusercontent.com/97960285/183784006-70b82003-998b-4361-9bc9-8295eb904c67.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## Adding Post
+![new](https://user-images.githubusercontent.com/97960285/183784018-d5adeb70-dd34-4c7c-87d4-17fc26ee2638.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## User Profile
+![Screenshot (124)](https://user-images.githubusercontent.com/97960285/183784100-4ff49d8c-e75a-4844-bfc4-1eb1ba1b34d0.png)
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Links
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Solution URL: https://shareme01.netlify.app/
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## Built with
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Tailwind CSS
+- [React](https://reactjs.org/) - JS library
+- [Sanity](https://www.sanity.io) - Content Management System (CMS)
